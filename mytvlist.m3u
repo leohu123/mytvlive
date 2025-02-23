@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -116,9 +116,6 @@ http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-
-
-#EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",免费订阅：请勿贩卖...
 https://epg.iill.top/v/302.mp4
